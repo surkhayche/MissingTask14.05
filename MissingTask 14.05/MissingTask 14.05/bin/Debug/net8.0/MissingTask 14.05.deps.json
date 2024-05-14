@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MissingTask 14.05/1.0.0": {
+        "runtime": {
+          "MissingTask 14.05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MissingTask 14.05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
